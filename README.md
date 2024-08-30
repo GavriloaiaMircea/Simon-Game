@@ -29,7 +29,7 @@ A web-based Simon game that tests your memory by repeating sequences of colors. 
 1. **Clone the Repository:** Start by cloning the project to your local machine.
 
     ```bash
-    git clone https://github.com/username/simon-game.git
+    git clone https://github.com/GavriloaiaMircea/Simon-Game.git
     cd simon-game
     ```
 
